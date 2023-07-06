@@ -3499,6 +3499,7 @@ system42("apps", function(le) {
         $log("  \\/\\_/ \\____/|__|  |____/\\____ | ");
         $log("                               \\/");
         $log("Welcome to Windows 93 :)");
+        $log('DINOOOOOOOOOOOOOOO');
         $log('type "help" or some JavaScript...');
         $log(" ");
       },
